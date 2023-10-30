@@ -1,0 +1,31 @@
+{
+  "article_reviews": [
+    {
+      "title": "Smear layer removal efficacy of irrigating solutions, applied distinct needle designs: a scanning electron microscopy study",
+      "description": "A brief description of your first article review.",
+      "publicationDate": "2023-01-15",
+      "article": "http://127.0.0.1:5500/smearLayer.pdf",
+      "critical_appraisal": "http://127.0.0.1:5500/summarySmearLayer.pdf"
+    },
+
+    {
+      "title": "Staging and grading of oral squamous cell carcinoma: An update",
+      "description": "A brief description of your first article review.",
+      "publicationDate": "2023-03-25",
+      "article": "http://127.0.0.1:5500/oralSCC.pdf",
+      "critical_appraisal": "http://127.0.0.1:5500/oralSCC.pdf"
+    },
+
+    {
+      "title": "Perioperative Management in Patients With Cleft Lip and Palate",
+      "description": "A brief description of your first article review.",
+      "publicationDate": "2023-05-10",
+      "article": "http://127.0.0.1:5500/preidl2019.pdf",
+      "critical_appraisal": "http://127.0.0.1:5500/preidl2019.pdf"
+    }
+
+   
+
+   
+  ]
+}

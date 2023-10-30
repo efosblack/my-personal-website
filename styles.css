@@ -1,0 +1,196 @@
+/* Reset some default styles to ensure consistent rendering across browsers */
+body, h1, h2, h3, p, ul {
+    margin: 0;
+    padding: 0;
+}
+
+/* Set a background color and text color for the entire page */
+body {
+    background-color: #f0f0f0;
+    color: #333;
+    font-family: Arial, sans-serif;
+}
+.page-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+    height: auto;
+    text-align: center;
+  }
+  
+
+/* Style the header with your name and navigation links */
+header {
+    background-color: #007acc;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 2em;
+}
+
+header nav ul {
+    list-style: none;
+}
+
+header nav {
+    margin-top: 20px;
+}
+
+header nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+header nav ul li a {
+    text-decoration: none;
+    color: #fff;
+}
+
+/* Style the search bar */
+.search-bar {
+    margin-top: 15px;
+    text-align: right;
+}
+
+.search-bar input[type="text"] {
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.search-bar button {
+    padding: 5px 10px;
+    background-color: #007acc;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+/* Style the sections of your website */
+
+section {
+    padding: 20px;
+}
+
+section h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+/* Style the profile picture */
+#profile-picture {
+    width: 150px; /* Adjust the width as needed */
+    height: 150px; /* Adjust the height as needed */
+    border-radius: 50%; /* Create a circular shape */
+    display: block;
+    margin:  left; /* Center the image */
+}
+
+
+/* Style the article review container */
+#article-review-container {
+    text-align: center;
+    margin: 20px;
+}
+
+/* Style the article review list */
+#article-review-list {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+
+/* Style individual article review items */
+#article-review-list li {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 20px;
+    text-align: left;
+    width: 300px;
+    
+}
+
+/* Style headings and links for research work */
+#article-review-list h3 {
+    font-size: 1.5rem;
+}
+
+#article-review-list a {
+    color: #007BFF;
+    text-decoration: none;
+    display: block;
+    margin-top: 10px;
+}
+
+/* Style the research work container */
+#research-work-container {
+    text-align: center;
+    margin: 20px;
+}
+
+/* Style the research work list */
+#research-work-list {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+/* Style individual research work items */
+#research-work-list li {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 20px;
+    text-align: left;
+    width: 300px;
+}
+
+/* Style headings and links for research work */
+#research-work-list h3 {
+    font-size: 1.5rem;
+}
+
+#research-work-list a {
+    color: #007BFF;
+    text-decoration: none;
+    display: block;
+    margin-top: 10px;
+}
+
+/* Style links to turn red on hover */
+a {
+    color: blue; /* Default link color */
+    text-decoration: none; /* Remove underlines */
+    transition: color 0.3s; /* Add a smooth transition effect for color changes */
+}
+
+a:hover {
+    color: red; /* Change link color to red on hover */
+}
+
+
+
+/* Style the footer */
+footer {
+    background-color: #007acc;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    font-size: 0.8em;
+}
