@@ -2,7 +2,7 @@
   "article_reviews": [
     {
       "title": "Smear layer removal efficacy of irrigating solutions, applied distinct needle designs: a scanning electron microscopy study",
-      "description": "A brief description of article review.",
+      "description": "This study aimed to evaluate the effectiveness of different irrigants and needle types in removing the smear layer (SLR) in primary incisors. They used various combinations in five study groups and examined the root surfaces with scanning electron microscopy. Results showed that experimental groups with EDTA and Citric Acid were superior to the control group in different root thirds. The double side-vented needle (DSVN) groups had better SLR efficacy than the control group in the apical third. Erosion was observed in some EDTA samples. In conclusion, DSVNs and open-ended needles (OENs) had similar SLR efficacy, and Citric Acid was recommended due to its non-erosive nature compared to EDTA in primary incisors.",
       "publicationDate": "2023-01-15",
       "article": "smearLayer.pdf",
       "critical_appraisal": "summarySmearLayer.pdf"
@@ -10,7 +10,7 @@
 
     {
       "title": "Staging and grading of oral squamous cell carcinoma: An update",
-      "description": "A brief description of article review.",
+      "description": "This article discusses oral squamous cell carcinoma (OSCC), a prevalent malignancy in the head and neck region known for its low survival rate and increasing incidence in certain areas. Staging and grading of OSCC are crucial for guiding treatment decisions and personalized care. The AJCC/UICC TNM staging (8th edition, 2017) for OSCC has introduced significant changes, including depth of invasion and extracapsular spread in T and N stages, respectively, with further suggested modifications. In contrast, the World Health Organization (WHO) classification (4th edition, 2017) maintains a simplistic differentiation-based histopathologic grading system for OSCC, disregarding factors like tumor growth pattern, stromal reactions, and tumor-stroma ratio, despite their potential prognostic significance. The article explores the controversies and potential advancements in the current staging and grading criteria for OSCC and delves into the prospective utilization of artificial intelligence in screening and risk assessment.",
       "publicationDate": "2023-03-25",
       "article": "oralSCC.pdf",
       "critical_appraisal": "oralSCC.pdf"
@@ -18,7 +18,7 @@
 
     {
       "title": "Perioperative Management in Patients With Cleft Lip and Palate",
-      "description": "A brief description of article review.",
+      "description": "This abstract discusses the lack of standardization in perioperative care for cleft patients, including ENT diagnostics, suture materials, antibiotic use, feeding methods, and inpatient stays. Information from international cleft centers was gathered to summarize current practices. Key findings include variations in the use of absorbable sutures for lip skin reconstruction, differing suture removal times, and inconsistencies in antibiotic use. The study emphasizes the need for standardization in cleft surgery management, despite some established practices like ENT consultation and intraoperative collaboration. Variability in perioperative care highlights the necessity for further studies, preferably multicenter, to improve and validate cleft surgery management.",
       "publicationDate": "2023-05-10",
       "article": "preidl2019.pdf",
       "critical_appraisal": "preidl2019.pdf"
