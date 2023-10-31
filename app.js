@@ -34,7 +34,7 @@ function populateResearchWork() {
       data.research_work.forEach((item) => {
         const li = document.createElement("li");
         li.innerHTML = `
-          <h3 style="color: black; font-family: cursive; font-size: 1.5rem;">${item.title}</h3>
+          <h3 style="color: black; font-family: sans-serif; font-size: 1.5rem;">${item.title}</h3>
           <br>
           <p>Authors: ${item.authors}</p>
           <br>
