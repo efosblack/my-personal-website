@@ -11,7 +11,7 @@ function populateArticleReviews() {
         <h3 style="color: black; font-family: sans-serif; font-size: 1.5rem;">${item.title}</h3>
         <br>
 
-          <q style="color: brown; font-style: italic; ">${item.description}</q> <br>
+          <q style="color: black; font-style: italic; ">${item.description}</q> <br>
           <br>
           <p style="font-weight: bold; ">Publication Date: ${item.publicationDate}</p>
           <br>
@@ -40,7 +40,7 @@ function populateResearchWork() {
           <br>
           <p style="font-weight: bold;">Publication Date: ${item.publicationDate}</p>
           <br>
-          <q style="color: brown; font-style: italic; ">${item.abstract}</q>
+          <q style="color: black; font-style: italic; ">${item.abstract}</q>
           <br>
           <a href="${item.link}" target="_blank">Read Research Work</a>
         `;
